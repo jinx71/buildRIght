@@ -1,0 +1,9 @@
+{
+  "short_name": "BuildRight",
+  "name": "BuildRight — Construction & Civil Engineering",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d97706",
+  "background_color": "#0f172a"
+}
